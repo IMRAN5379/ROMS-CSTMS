@@ -1,1 +1,4 @@
+# ROMS-CSTMS #
+In the Bay of Bengal, characterized by intense riverine sediment discharge, strong monsoonal forcing, and highly stratified waters, the Nechad model performs particularly well due to the high optical signal associated with suspended sediments. However, its accuracy depends strongly on regional calibration of coefficients (A and C), as default values may not capture the variability in sediment composition and optical properties. Additionally, the model exhibits limitations at very high turbidity levels, where reflectance saturation can lead to underestimation or instability in SSC retrieval.
 
+Overall, the Nechad model provides a reliable and computationally efficient approach for mapping sediment plumes and validating numerical models such as ROMS-CSTMS, especially when combined with in situ observations and regional tuning.
